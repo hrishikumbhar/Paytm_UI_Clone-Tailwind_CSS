@@ -1,4 +1,4 @@
-# Project 15 : Paytm_UI_Clone-Tailwind_CSS
+# Project 16 : Paytm_UI_Clone-Tailwind_CSS
 
 ![](https://img.shields.io/badge/iNeuron-LCO-red)
 ![](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--js--bootcamp-yellow)
@@ -15,7 +15,7 @@
 
 ### This project took around 8 hours to complete.
 
-### Project Link : [Link]()
+### Project Link : [Link](https://paytmuiclone.netlify.app/)
 
 ### Screenshot :
 
